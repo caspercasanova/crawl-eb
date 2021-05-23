@@ -5,9 +5,15 @@ Scrape Events
   - Yelp
 General DataStructures
 
-An Event 
+Eventbrite -->
+  All events on the internet. --> for one week
+
+Meetup
+  All Meetup strucutres --> for one week
+
+An Event
   EventOrganizer
-  Date: 
+  Date:
   Price: || 0
   Location
   About
